@@ -1,7 +1,7 @@
 # loginPage
 # Login Page Project
 
-This project is a simple login page built with HTML, CSS, and PHP. It includes user authentication and a basic interface for updating user profiles.
+This project is a simple login page built with HTML, CSS, Bootstrap, MySQL, and PHP. It includes user authentication and a basic interface for updating user profiles.
 
 ## Table of Contents
 
