@@ -37,4 +37,4 @@ To run this project, you need the following:
    ```bash
    git clone https://github.com/NGangaMahesh/loginPage.git
 ## Signup Page
-![Signup Page](task\images/signup (1))
+![Signup Page](https://example.com/task/images/signup%20(1).png)
