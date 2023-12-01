@@ -37,4 +37,25 @@ To run this project, you need the following:
    ```bash
    git clone https://github.com/NGangaMahesh/loginPage.git
 ## Signup Page
-![Signup Page](https://github.com/NGangaMahesh/loginPage/blob/main/task/images/signup%20(1).png?raw=true)
+![Signup Page](https://github.com/NGangaMahesh/loginPage/blob/main/task/images/signup%20(1).png)
+
+## IN MyAdmin
+-After the Signup Account is created.
+-Redirected to the Login page
+![Table](https://raw.githubusercontent.com/NGangaMahesh/loginPage/main/task/images/myadmin.png)
+
+## Login Page
+![Login Page](https://raw.githubusercontent.com/NGangaMahesh/loginPage/main/task/images/login.png)
+
+## Main Page
+![updateProfile Page](https://raw.githubusercontent.com/NGangaMahesh/loginPage/main/task/images/mainpage.png)
+
+## Update Profile Page
+-Before Update
+![Before Main Page](https://github.com/NGangaMahesh/loginPage/blob/main/task/images/afterupdate.png?raw=true)
+-After Update
+![After Main Page](https://github.com/NGangaMahesh/loginPage/blob/main/task/images/afterupdate.png?raw=true)
+
+## IN MyAdmin
+-After the update profile
+![Update Data Page](https://raw.githubusercontent.com/NGangaMahesh/loginPage/main/task/images/signup%20(7).png)
